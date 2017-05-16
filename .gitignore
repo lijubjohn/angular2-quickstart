@@ -68,6 +68,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.bin/*
+.bin
 
 
 .DS_STORE
@@ -142,4 +144,7 @@ Thumbs.db
 # System Files
 */.DS_Store
 */Thumbs.db
+*/.bin
+*/.bin/*
+
 
